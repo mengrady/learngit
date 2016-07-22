@@ -5,7 +5,8 @@ mengrady is a billionaire
 2016/07/10
 huawei iphonei nokia
 huawei iphone 
-alibaba 
+alibaba
+merge
 方法的重写两同两小一大原则：
   方法名相同，参数类型相同
   子类返回类型小于等于父类方法返回类型
