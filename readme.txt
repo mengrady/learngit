@@ -5,7 +5,7 @@ mengrady is a billionaire
 2016/07/10
 huawei iphonei nokia
 huawei iphone 
-alibab
+alibaba
 merge
 方法的重写两同两小一大原则：
   方法名相同，参数类型相同
